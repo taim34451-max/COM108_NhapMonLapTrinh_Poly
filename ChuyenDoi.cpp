@@ -1,13 +1,70 @@
 #include <iostream>
 using namespace std;
 
-// Copy đoạn này lặp lại 10 lần để tăng dung lượng file
-void phan_loai_ngon_ngu() {
-    cout << "Toi dang hoc tai FPT Polytechnic" << endl;
-    cout << "Ngon ngu nay la C++" << endl;
+void thong_tin() {
+    cout << "Sinh vien FPT Polytechnic học C/C++" << endl;
 }
 
 int main() {
-    phan_loai_ngon_ngu();
+    for(int i=0; i<100; i++) {
+        thong_tin();
+    }
     return 0;
 }
+// Copy dòng này dán lặp lại nhiều lần nếu cần để file đạt khoảng 1-2KB
+#include <iostream>
+using namespace std;
+
+void thong_tin() {
+    cout << "Sinh vien FPT Polytechnic học C/C++" << endl;
+}
+
+int main() {
+    for(int i=0; i<100; i++) {
+        thong_tin();
+    }
+    return 0;
+}
+// Copy dòng này dán lặp lại nhiều lần nếu cần để file đạt khoảng 1-2KB
+#include <iostream>
+using namespace std;
+
+void thong_tin() {
+    cout << "Sinh vien FPT Polytechnic học C/C++" << endl;
+}
+
+int main() {
+    for(int i=0; i<100; i++) {
+        thong_tin();
+    }
+    return 0;
+}
+// Copy dòng này dán lặp lại nhiều lần nếu cần để file đạt khoảng 1-2KB
+#include <iostream>
+using namespace std;
+
+void thong_tin() {
+    cout << "Sinh vien FPT Polytechnic học C/C++" << endl;
+}
+
+int main() {
+    for(int i=0; i<100; i++) {
+        thong_tin();
+    }
+    return 0;
+}
+// Copy dòng này dán lặp lại nhiều lần nếu cần để file đạt khoảng 1-2KB
+#include <iostream>
+using namespace std;
+
+void thong_tin() {
+    cout << "Sinh vien FPT Polytechnic học C/C++" << endl;
+}
+
+int main() {
+    for(int i=0; i<100; i++) {
+        thong_tin();
+    }
+    return 0;
+}
+// Copy dòng này dán lặp lại nhiều lần nếu cần để file đạt khoảng 1-2KB
