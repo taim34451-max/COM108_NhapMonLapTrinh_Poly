@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h> // cần cho system()
+
+int main() {
+    float a, b;
+
+    // Nhập vào hai số từ bàn phím
+    printf("Nhap so thu nhat: ");
+    scanf("%f", &a);
+    printf("Nhap so thu hai: ");
+    scanf("%f", &b);
+
+    // Tính tổng và hiệu
+    float tong = a + b;
+    float hieu = a - b;
+
+    // Hiển thị kết quả
+    printf("Tong cua hai so la: %20.2f\n", tong);
+    printf("Hieu cua hai so la: %20.2f\n", hieu);
+
+    system("pause"); // hoặc getchar();
+    return 0;
+}
